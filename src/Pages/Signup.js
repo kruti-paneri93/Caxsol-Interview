@@ -65,7 +65,7 @@ function Signup() {
                         <noscript>{JSON.stringify(formValues, undefined, 2)}</noscript>
                     )}
                     <div className="card-header">
-                        <h4 className="title">Login Form</h4>
+                        <h4 className="title">Registration Form</h4>
                     </div>
                     <div className="card-body">
                         <form onSubmit={handleSubmit} className="form-style">
